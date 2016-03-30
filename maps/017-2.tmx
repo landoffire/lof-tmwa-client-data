@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="53" height="51" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="53" height="51" tilewidth="32" tileheight="32" nextobjectid="7">
  <properties>
   <property name="name" value="Theater"/>
  </properties>
@@ -36,7 +36,7 @@
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,36,36,36,36,36,36,36,36,36,36,36,36,36,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,70,71,71,71,71,71,71,71,71,71,71,71,72,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,86,87,87,87,87,87,87,87,87,87,87,87,88,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
-51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,102,103,103,103,103,103,103,103,103,103,103,103,104,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
+51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,102,103,103,103,103,103,46,103,103,103,103,103,104,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,36,36,36,36,36,36,36,36,36,36,36,36,36,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
 51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,
@@ -256,7 +256,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,46,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,143,114,114,114,114,114,114,114,114,114,114,114,114,114,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -335,43 +335,43 @@
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 </data>
  </layer>
- <objectgroup name="Objects" width="53" height="51">
-  <object name="To Right Door Backstage" type="warp" x="960" y="640" width="32" height="32">
+ <objectgroup name="Objects">
+  <object id="1" name="To Right Door Backstage" type="warp" x="960" y="640" width="32" height="32">
    <properties>
     <property name="dest_map" value="017-9"/>
     <property name="dest_tile_x" value="29"/>
     <property name="dest_tile_y" value="21"/>
    </properties>
   </object>
-  <object name="To Outside" type="warp" x="832" y="992" width="32" height="32">
+  <object id="2" name="To Outside" type="warp" x="832" y="992" width="32" height="32">
    <properties>
     <property name="dest_map" value="017-1"/>
     <property name="dest_tile_x" value="43"/>
     <property name="dest_tile_y" value="33"/>
    </properties>
   </object>
-  <object name="To Left Door Backstage" type="warp" x="704" y="640" width="32" height="32">
+  <object id="3" name="To Left Door Backstage" type="warp" x="704" y="640" width="32" height="32">
    <properties>
     <property name="dest_map" value="017-9"/>
     <property name="dest_tile_x" value="23"/>
     <property name="dest_tile_y" value="21"/>
    </properties>
   </object>
-  <object name="To Left Trapdoor Backstage" type="warp" x="768" y="800" width="32" height="32">
+  <object id="4" name="To Left Trapdoor Backstage" type="warp" x="768" y="800" width="32" height="32">
    <properties>
     <property name="dest_map" value="017-9"/>
     <property name="dest_tile_x" value="21"/>
     <property name="dest_tile_y" value="26"/>
    </properties>
   </object>
-  <object name="To Center Trapdoor Backstage" type="warp" x="832" y="672" width="32" height="32">
+  <object id="5" name="To Center Trapdoor Backstage" type="warp" x="832" y="672" width="32" height="32">
    <properties>
     <property name="dest_map" value="017-9"/>
     <property name="dest_tile_x" value="26"/>
     <property name="dest_tile_y" value="27"/>
    </properties>
   </object>
-  <object name="To Right Trapdoor Backstage" type="warp" x="896" y="800" width="32" height="32">
+  <object id="6" name="To Right Trapdoor Backstage" type="warp" x="896" y="800" width="32" height="32">
    <properties>
     <property name="dest_map" value="017-9"/>
     <property name="dest_tile_x" value="31"/>
