@@ -8,9 +8,11 @@ All indices are 0-based.
 
 GPLv2: Licensed under GNU General Public License version2.
 http://www.gnu.org/licenses/gpl-2.0.html
+See file GPL
 
 CC BY-SA 3.0: Licensed under Creative Commons Attribution-ShareAlike 3.0 Unported.
 http://creativecommons.org/licenses/by-sa/3.0/
+See file CC-BY-SA 3.0
 
 UBP: All rights reserved, used by permission.
 
@@ -1127,3 +1129,18 @@ UBP: All rights reserved, used by permission.
     graphics/tiles/woodland_x4.png (Woodland_x4.png) (????, Len, Saphy)                                           (GPLv2)
     graphics/tiles/woodland_x5.png (Woodland_x5.png) (Saphy, ????)                                                (GPLv2)
     graphics/tiles/woodland_x8.png (Woodland_x8.png) (Len)                                                        (GPLv2), (CC BY-SA 3.0)
+
+# Scripts
+    avatars.xml (4144)                                                                                            (CC BY-SA 3.0)
+    badges.xml (4144)                                                                                             (CC BY-SA 3.0)
+    charcreation.xml (4144)                                                                                       (CC BY-SA 3.0)
+    deadmessages.xml (4144, Alige)                                                                                (CC BY-SA 3.0)
+    features.xml (4144)                                                                                           (CC BY-SA 3.0)
+    horses.xml (4144)                                                                                             (CC BY-SA 3.0)
+    itemcolors.xml (4144, Reid)                                                                                   (CC BY-SA 3.0)
+    itemfields.xml (4144)                                                                                         (CC BY-SA 3.0)
+    maps.xml (4144)                                                                                               (CC BY-SA 3.0)
+    mods.xml (4144)                                                                                               (CC BY-SA 3.0)
+    npcdialogs.xml (4144)                                                                                         (CC BY-SA 3.0)
+    weapons.xml (4144)                                                                                            (CC BY-SA 3.0)
+

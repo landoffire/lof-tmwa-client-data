@@ -269,6 +269,7 @@ implement other playable races -->
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="200">
         <sprite>weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
@@ -282,6 +283,7 @@ implement other playable races -->
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="150">
         <sprite>weapon-dagger.xml</sprite>
         <sound event="strike">weapons/knives/sharpknife-miss1.ogg</sound>
@@ -375,6 +377,7 @@ implement other playable races -->
         type="equip-2hand"
         weapon-type="bow"
         attack-action="attack_bow"
+        attack-range="5"
         weight="600"
         missile-particle="graphics/particles/arrow.particle.xml">
         <sprite>weapon-bow.xml</sprite>
@@ -431,6 +434,7 @@ implement other playable races -->
         type="equip-1hand"
         weapon-type="sword"
         attack-action="attack"
+        attack-range="1"
         weight="2000">
         <sprite>weapon-dagger.xml</sprite>
     </item>
@@ -501,6 +505,7 @@ implement other playable races -->
         type="equip-2hand"
         weapon-type="bow"
         attack-action="attack_bow"
+        attack-range="5"
         weight="1200"
         missile-particle="graphics/particles/arrow.particle.xml">
         <sprite>weapon-bow.xml</sprite>
@@ -524,6 +529,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="polearm"
+        attack-range="1"
         weight="10"/>
     <item id="548"
         image="equipment/weapon/polearm-halberd.png"
@@ -532,6 +538,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="polearm"
+        attack-range="1"
         weight="1400"/>
     <item id="549"
         image="equipment/weapon/axe-axe.png"
@@ -540,6 +547,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="axe"
+        attack-range="1"
         weight="1200"/>
     <item id="550"
         image="equipment/weapon/axe-blacksmithsaxe.png"
@@ -548,6 +556,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="axe"
+        attack-range="1"
         weight="1200">
         <sprite>weapon-axe-blacksmith.xml</sprite>
     </item>
@@ -618,6 +627,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="300"/>
     <item id="562"
         image="use/food/chickenleg.png"
@@ -692,6 +702,7 @@ implement other playable races -->
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="450">
         <sprite>weapon-dagger.xml</sprite>
     </item>
@@ -704,6 +715,7 @@ implement other playable races -->
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="900"
         sellProtected="true">
         <sprite>weapon-dagger.xml</sprite>
@@ -715,6 +727,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="200"/>
     <item id="573"
         image="equipment/weapon/sword-falchion.png"
@@ -723,6 +736,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="300"/>
     <item id="574"
         image="equipment/weapon/polearm-scorpion.png"
@@ -731,6 +745,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="polearm"
+        attack-range="1"
         weight="600"/>
     <item id="575"
         image="equipment/weapon/bow-desertbow.png"
@@ -740,6 +755,7 @@ implement other playable races -->
         type="equip-2hand"
         weapon-type="bow"
         attack-action="attack_bow"
+        attack-range="8"
         weight="1200"
         missile-particle="graphics/particles/arrow-banshee.particle.xml">
         <sprite>weapon-bow.xml</sprite>
@@ -751,6 +767,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="2000"/>
     <item id="577"
         image="equipment/ammo/bonedarts.png"
@@ -759,6 +776,7 @@ implement other playable races -->
         effect="Damage +? / Range ?"
         type="equip-1hand"
         weapon-type="thrown"
+        attack-range="1"
         weight="300"/>
     <item id="578"
         image="equipment/weapon/sword-sandcutter.png"
@@ -767,6 +785,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="1500"/>
     <item id="579"
         image="equipment/weapon/dagger-rockknive.png"
@@ -775,6 +794,7 @@ implement other playable races -->
         effect="Damage +315"
         type="equip-1hand"
         weapon-type="knife"
+        attack-range="1"
         attack-action="attack"
         vit="3"
         weight="500"
@@ -788,6 +808,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="staff"
+        attack-range="1"
         weight="1500"/>
     <item id="581"
         image="equipment/weapon/staff-crescentrod.png"
@@ -796,6 +817,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="staff"
+        attack-range="1"
         weight="1500"/>
     <item id="582"
         image="equipment/weapon/staff-staffoffire.png"
@@ -804,6 +826,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="staff"
+        attack-range="1"
         weight="1500"/>
     <item id="583"
         image="equipment/weapon/staff-staffofice.png"
@@ -812,6 +835,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-2hand"
         weapon-type="staff"
+        attack-range="1"
         weight="1500"/>
     <item id="584"
         image="equipment/weapon/sword-jackal.png"
@@ -820,6 +844,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="100"/>
     <item id="585"
         image="equipment/shield/scarabarmlet.png"
@@ -847,6 +872,7 @@ implement other playable races -->
         effect="Damage +?"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="200">
         <sprite>weapon-sword-sword.xml</sprite>
     </item>
@@ -915,6 +941,7 @@ description="A light spear with a wooden pole."
 effect="Damage +?"
 type="equip-2hand"
 weapon-type="polearm"
+attack-range="1"
 weight="700">
 <sprite>weapon-polearm-spear.xml</sprite>
 </item>
@@ -1180,6 +1207,7 @@ weight="10"/>
         type="equip-2hand"
         weapon-type="polearm"
         attack-action="attack"
+        attack-range="1"
         weight="1200"
         sellProtected="true">
         <sprite>weapon-scythe.xml</sprite>
@@ -2459,6 +2487,7 @@ weight="10"/>
         type="equip-2hand"
         weapon-type="polearm"
         attack-action="attack"
+        attack-range="1"
         weight="1000">
         <sprite>weapon-staff.xml</sprite>
     </item>
@@ -3368,6 +3397,7 @@ weight="10"/>
         type="equip-1hand"
         weapon-type="sword"
         attack-action="attack"
+        attack-range="1"
         luck="2"
         weight="1000">
         <sprite>weapon-ice-gladius.xml</sprite>
@@ -3476,6 +3506,7 @@ weight="10"/>
         type="equip-2hand"
         weapon-type="bow"
         attack-action="attack_bow"
+        attack-range="6"
         weight="900"
         missile-particle="graphics/particles/arrow-banshee.particle.xml"
         sellProtected="true">
@@ -3742,6 +3773,7 @@ weight="10"/>
         type="equip-2hand"
         weapon-type="bow"
         attack-action="attack_bow"
+        attack-range="3"
         weight="10"
         missile-particle="graphics/particles/stoneprojectile.particle.xml">
         <sprite>weapon-slingshot.xml</sprite>
@@ -3903,7 +3935,8 @@ weight="10"/>
         weight="20"
         missile-particle="graphics/particles/arrow.particle.xml"
         weapon-type="bow"
-        attack-action="attack_bow">
+        attack-action="attack_bow"
+        attack-range="5">
         <sprite>weapon-bow.xml</sprite>
         <!-- <sound event="strike">weapons/bows/bow_shoot_1.ogg</sound> -->
     </item>
@@ -3915,7 +3948,8 @@ weight="10"/>
         type="equip-1hand"
         weight="120"
         weapon-type="knife"
-        attack-action="attack">
+        attack-action="attack"
+        attack-range="1">
         <sprite>weapon-dagger.xml</sprite>
     </item>
     <item id="1202"
@@ -4033,6 +4067,7 @@ weight="10"/>
         effect="Damage +1"
         type="equip-1hand"
         weapon-type="sword"
+        attack-range="1"
         weight="1"
         sellProtected="true">
         <sprite>weapon-dagger.xml</sprite>
@@ -8921,6 +8956,7 @@ an additional item property.
         type="equip-2hand"
         weapon_type="bow"
         attack-action="attack_bow"
+        attack-range="8"
         weight="1200"
         missile-particle="graphics/particles/arrow.particle.xml">>
         <sprite>bow-halo.xml</sprite>
@@ -8935,6 +8971,7 @@ an additional item property.
         type="equip-2hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="500">
         <sprite>smith-axe.xml</sprite>
     </item>
@@ -8946,6 +8983,7 @@ an additional item property.
         type="equip-2hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="500">
         <sprite>kanabo.xml</sprite>
     </item>
@@ -8957,6 +8995,7 @@ an additional item property.
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="2000">
         <sprite>weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
@@ -8970,6 +9009,7 @@ an additional item property.
         type="equip-1hand"
         weapon-type="knife"
         attack-action="attack"
+        attack-range="1"
         weight="2000">
         <sprite>weapon-dagger.xml</sprite>
         <sound event="strike">weapons/swords/short-sword-miss1.ogg</sound>
@@ -9226,6 +9266,7 @@ an additional item property.
         type="equip-2hand"
         weapon-type="bow"
         attack-action="attack"
+        attack-range="5"
         weight="100"
         missile-particle="graphics/particles/fire-burst.xml">
         <sprite gender="male">equipment/hands/generic-male.xml|#4e2e18,c8752f</sprite>
@@ -9590,6 +9631,7 @@ an additional item property.
         type="equip-2hand"
         weapon-type="knife"
         attack-action="attack_2hand"
+        attack-range="1"
         weight="500">
         <sprite>weapon-singleblade-axe.xml</sprite>
     </item>
