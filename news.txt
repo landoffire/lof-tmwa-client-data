@@ -15,6 +15,10 @@
 ##0 their instruments. Plus fairies seem to affect their
 ##0 accompanied adventurers in a slightly different way...
 
+##9 9 October 2016
+##0 * Minor map fixes
+##0 * Fix broken Status and Equipment windows
+
 ##9 22-23 March 2016
 ##0 * Make Candy have a 10% chance of being a Shock Sweet
 ##0 * New Thumbs Up emote
