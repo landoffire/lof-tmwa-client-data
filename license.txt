@@ -1100,8 +1100,8 @@ UBP: All rights reserved, used by permission.
         * Original: ????, Crush
         * Reskin: Billr, lavender
     graphics/tiles/woodland_indoor_x3_extra.png (Billr, lavender)                                                 (CC BY-SA 3.0)
-    graphics/tiles/woodland_indoor.png                                                                            (GPLv2)
-        * Original: ????, Crush, Yosuhara
+    graphics/tiles/woodland_indoor.png                                                                            (GPLv2), (CC BY-SA 3.0)
+        * Original: Crush[author], Yosuhara[contributor], modanung[contributor], Len[contributor]
         * Reskin: Billr, lavender
         * Pixel edits: pydsigner
     graphics/tiles/woodland_indoor_extra.png (lavender)                                                           (GPLv2), (CC BY-SA 3.0)
@@ -1113,9 +1113,9 @@ UBP: All rights reserved, used by permission.
 	* Original: based on woodland_swamp.png (Len)
 	* Reskin: Billr
     graphics/tiles/woodland_village_x2.png (Woodland_village_x2.png) (????, Crush)                                (GPLv2)
-    graphics/tiles/woodland_village.png (Woodland_village.png) (????, Crush)                                      (GPLv2)
+    graphics/tiles/woodland_village.png (Woodland_village.png) (Crush[author])                                    (GPLv2), (CC BY-SA 3.0)
     graphics/tiles/woodland_village_winter.png                                                                    (GPLv2), (CC BY-SA 3.0)
-	* Original: based on woodland_village.png (????, Crush)
+	* Original: based on woodland_village.png (Crush[author], modanung[contributor], Len[contributor])
 	* Reskin: Billr
     graphics/tiles/woodland_water.png (Woodland_water.png) (????)                                                 (GPLv2)
     graphics/tiles/woodland_x2.png (Woodland_x2.png) (????, Crush, Len, Saphy)                                    (GPLv2)
