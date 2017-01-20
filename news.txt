@@ -15,6 +15,12 @@
 ##0 their instruments. Plus fairies seem to affect their
 ##0 accompanied adventurers in a slightly different way...
 
+##9 19 January 2017
+##0 * Involve Luk stat slightly in item drop chances
+##0 * Allow level 75+ players as helpers for Illia quest
+##0 * Increase party size limit from 12 to 32
+##0 * Fix exploit in tutorial quest
+
 ##9 9 October 2016
 ##0 * Minor map fixes
 ##0 * Fix broken Status and Equipment windows
