@@ -97,7 +97,6 @@ local packages = {
             "npcdialogs.xml",
             "npcs.xml",
             "paths.xml",
-            "pets.xml",
             "quests.xml",
             "quests",
             "settings.xml",
