@@ -257,6 +257,7 @@ UBP: All rights reserved, used by permission.
     graphics/items/equipment/weapon/sword-sandcutter.png (Adarias)                                           (GPLv2)
     graphics/items/equipment/weapon/sword-scimitar.png (Adarias)                                             (GPLv2)
     graphics/items/equipment/weapon/sword-sword.png (Irukard)                                                (GPLv2), (CC BY-SA 3.0)
+    graphics/items/equipment/weapon/wand.png (????, Wushin)                                                  (GPLv2)
 ## Generic
     graphics/items/generic/animal-bones.png (Leela, Enchilado)                                               (GPLv2)
     graphics/items/generic/antlers.png (Nami, Enchilado)                                                     (GPLv2), (CC BY-SA 3.0)
@@ -739,6 +740,8 @@ UBP: All rights reserved, used by permission.
     graphics/sprites/equipment/legs/terranite-male.png (Kr0n05931)                                            (GPLv2)
 ### Override
     graphics/sprites/equipment/override/skeleton.png (????, FotherJ)                                          (GPLv2)
+### Weapons
+    graphics/sprites/equipment/weapons/wand.png (????, Wushin)                                                (GPLv2)
 ## Hairstyles
     graphics/sprites/hairstyles/hairstyle01.png (Kineticstorm)                                                (GPLv2)
     graphics/sprites/hairstyles/hairstyle02.png (Kineticstorm)                                                (GPLv2)
@@ -1023,11 +1026,11 @@ UBP: All rights reserved, used by permission.
     graphics/tiles/desert_x3.png (????)                                                                           (GPLv2)
     graphics/tiles/desert_x5.png (????)                                                                           (GPLv2)
     graphics/tiles/desert1.png (????)                                                                             (GPLv2), (CC BY-SA 3.0)
-	* Added portions of graphics/tiles/castle_1.png (castle-1.png) (Alige, EJlol, Irukard, Len, MerlinX420): Billr   
-        * Added portions of graphics/tiles/castle_2.png (castle-2.png) (Alige, EJlol, Irukard, IvanMorve Len, MerlinX420): Billr   
+	* Added portions of graphics/tiles/castle_1.png (castle-1.png) (Alige, EJlol, Irukard, Len, MerlinX420): Billr
+        * Added portions of graphics/tiles/castle_2.png (castle-2.png) (Alige, EJlol, Irukard, IvanMorve Len, MerlinX420): Billr
     graphics/tiles/desert2.png (????)                                                                             (GPLv2), (CC BY-SA 3.0)
-	* Added portions of graphics/tiles/castle_1.png (castle-1.png) (Alige, EJlol, Irukard, Len, MerlinX420): Billr   
-        * Added portions of graphics/tiles/castle_2.png (castle-2.png) (Alige, EJlol, Irukard, IvanMorve Len, MerlinX420): Billr   
+	* Added portions of graphics/tiles/castle_1.png (castle-1.png) (Alige, EJlol, Irukard, Len, MerlinX420): Billr
+        * Added portions of graphics/tiles/castle_2.png (castle-2.png) (Alige, EJlol, Irukard, IvanMorve Len, MerlinX420): Billr
     graphics/tiles/desert3.png (????,wushin)                                                                      (GPLv2)
     graphics/tiles/fluttering_banners.png (Billr)                                                                 (CC BY-SA 3.0)
     graphics/tiles/fluttering_flags.png (Billr)                                                                   (CC BY-SA 3.0)
