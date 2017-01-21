@@ -1,5 +1,21 @@
 ##1 Welcome to TMW-LoF V2!
 
+##0 Rumors are spreading of a dark dragon, drawn by the 
+##0 scent of immense mounds of gold and the pelts of its
+##0 distant kin. But none can say that the danger of 
+##0 meeting such a foe is not offset by the effect it 
+##0 may have on a companion pet....
+##0 Meanwhile, in Tulimshar, a young student named Silvia 
+##0 has been tasked with teaching adventurers any fragment 
+##0 of magic she can, while the law office has revised its 
+##0 party forms to allow as many as 32 adventurers in one 
+##0 group, and even the Illia sisters seem to recognize the
+##0 immense potential of comparative novices. Yet the most 
+##0 dedicated may find themselves further and further 
+##0 ahead, reaching the unheard-of before levels 100-109.
+
+##3 — The LoF Dev Team
+
 ##0 Tulimshar has finally commissioned new work to replace
 ##0 its crumbling infrastructure. Meanwhile, candymakers
 ##0 are controversially reintroducing their stocks of the
@@ -7,18 +23,18 @@
 ##0 candy. Some citizens hate it, but others are taking to
 ##0 the streets to give the revived candy a huge thumbs up.
 
-##3 — The LoF Dev Team
-
-##0 Mages throughout Land of Fire are rejoicing as they
-##0 find summons to mysteriously start working again,
-##0 while the musicians in Dimond's Inn have finally found
-##0 their instruments. Plus fairies seem to affect their
-##0 accompanied adventurers in a slightly different way...
+##9 20 January 2017
+##0 * Involve Luk stat slightly in item drop chances
+##0 * Increase party size limit from 12 to 32
+##0 * Add Wand item
+##0 * New Silvia quest to get Wand learn #confringo
+##0 * Talk to a GM about requirements for a Black Cat
+##0 * Add Black Mamba rare drop for Assassin Robe
+##0 * Make Smoke and Red Dragons summon allies
+##0 * Add Assassin gear set drop to Smoke Dragon
 
 ##9 19 January 2017
-##0 * Involve Luk stat slightly in item drop chances
 ##0 * Allow level 75+ players as helpers for Illia quest
-##0 * Increase party size limit from 12 to 32
 ##0 * Fix exploit in tutorial quest
 
 ##9 9 October 2016
