@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="120" tilewidth="32" tileheight="32" nextobjectid="46">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="120" tilewidth="32" tileheight="32" nextobjectid="48">
  <properties>
   <property name="minimap" value="graphics/minimaps/018-1.png"/>
   <property name="music" value="The Mana World - The Forest.ogg"/>
@@ -1344,5 +1344,13 @@
     <property name="dest_tile_y" value="147"/>
    </properties>
   </object>
+  <object id="46" name="To Secret Island" type="warp" x="5313" y="1537" width="32" height="32">
+   <properties>
+    <property name="dest_map" value="secret-island"/>
+    <property name="dest_tile_x" type="int" value="164"/>
+    <property name="dest_tile_y" type="int" value="106"/>
+   </properties>
+  </object>
+  <object id="47" name="graphics/particles/warper.particle.xml" type="PARTICLE_EFFECT" x="5313" y="1537" width="32" height="32"/>
  </objectgroup>
 </map>
