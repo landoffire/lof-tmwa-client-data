@@ -1346,7 +1346,7 @@
   </object>
   <object id="46" name="To Secret Island" type="warp" x="5313" y="1537" width="32" height="32">
    <properties>
-    <property name="dest_map" value="secret-island"/>
+    <property name="dest_map" value="si-outside"/>
     <property name="dest_tile_x" type="int" value="164"/>
     <property name="dest_tile_y" type="int" value="106"/>
    </properties>
