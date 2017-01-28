@@ -1,7 +1,15 @@
 ##1 Welcome to TMW-LoF V2!
 
+##0 Intrepid explorers have discovered a new region of the 
+##0 world, a secret island. Thought to be far off the 
+##0 coasts of Hurnscald and filled with deadly creatures 
+##0 of legends past, the dangers and gifts of this isle 
+##0 beckon only to the bravest of the children of Auredia.
+
+##3 — The LoF Dev Team
+
 ##0 Rumors are spreading of a dark dragon, drawn by the 
-##0 scent of immense mounds of gold and the pelts of its
+##0 scent of immense mounds of gold and the pelts of its 
 ##0 distant kin. But none can say that the danger of 
 ##0 meeting such a foe is not offset by the effect it 
 ##0 may have on a companion pet....
@@ -9,19 +17,18 @@
 ##0 has been tasked with teaching adventurers any fragment 
 ##0 of magic she can, while the law office has revised its 
 ##0 party forms to allow as many as 32 adventurers in one 
-##0 group, and even the Illia sisters seem to recognize the
-##0 immense potential of comparative novices. Yet the most 
-##0 dedicated may find themselves further and further 
-##0 ahead, reaching the unheard-of before levels 100-109.
+##0 group, and even the Illia sisters seem to recognize 
+##0 the immense potential of comparative novices. Yet the 
+##0 most dedicated may find themselves further and further 
+##0 ahead, reaching the before unheard-of levels 100-109.
 
-##3 — The LoF Dev Team
-
-##0 Tulimshar has finally commissioned new work to replace
-##0 its crumbling infrastructure. Meanwhile, candymakers
-##0 are controversially reintroducing their stocks of the
-##0 popular Shock Sweets by putting some in every bag of
-##0 candy. Some citizens hate it, but others are taking to
-##0 the streets to give the revived candy a huge thumbs up.
+##9 28 January 2017
+##0 * New map region: Secret Island
+##0 * New mob: Golden Scorpion
+##0 * New item: Purple Funky Hat
+##0 * Cleaned up Hurnscald maps
+##0 * Fixed Assassin gear stats
+##0 * Fixed bug with experience to levels 100+
 
 ##9 20 January 2017
 ##0 * Involve Luk stat slightly in item drop chances
