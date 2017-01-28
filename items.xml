@@ -8790,7 +8790,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#5b5b5b</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#5b5b5b</sprite>
     </item>
@@ -8801,7 +8802,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#3996f5</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#3996f5</sprite>
     </item>
@@ -8812,7 +8814,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#f72424</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#f72424</sprite>
     </item>
@@ -8823,7 +8826,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#FFFFFF</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|FFFFFF</sprite>
     </item>
@@ -8834,7 +8838,8 @@ an additional item property.
         effect="M. Attack -12"
         type="equip-legs"
         defense="10"
-        weight="60">
+        weight="60"
+        sellProtected="true">
         <sprite gender="male">equipment/legs/saviorpants-male.xml</sprite>
         <sprite gender="female">equipment/legs/saviorpants-male.xml</sprite>
     </item>
@@ -8885,7 +8890,8 @@ an additional item property.
         description="A cap which identifies you as a mapper."
         defense="30"
         type="equip-head"
-        weight="20">
+        weight="20"
+        sellProtected="true">
         <sprite>equipment/head/mapcap.xml|#4D6A4D</sprite>
     </item>
     <item id="8011"
@@ -8894,7 +8900,8 @@ an additional item property.
         description="A cap which identifies you as an artist."
         defense="30"
         type="equip-head"
-        weight="20">
+        weight="20"
+        sellProtected="true">
         <sprite>equipment/head/artcap.xml|#e68858</sprite>
     </item>
     <item id="8012"
@@ -8903,7 +8910,8 @@ an additional item property.
         description="A Centurion's Helmet."
         defense="25"
         type="equip-head"
-        weight="900">
+        weight="900"
+        sellProtected="true">
         <sprite>equipment/head/centurionhelm.xml</sprite>
     </item>
     <item id="8013"
@@ -8912,7 +8920,8 @@ an additional item property.
         description="A Gladiator's Helmet"
         defense="20"
         type="equip-head"
-        weight="900">
+        weight="900"
+        sellProtected="true">
         <sprite>equipment/head/gladiator-helm.xml</sprite>
     </item>
     <item id="8014"
@@ -9080,7 +9089,8 @@ an additional item property.
         effect="M. Attack -170"
         defense="50"
         type="equip-torso"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#8c339f</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#8c339f</sprite>
     </item>
@@ -9099,7 +9109,8 @@ an additional item property.
         type="equip-ring"
         weight="13"
         defense=""
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>equipment/wings/angelwings.xml</sprite>
     </item>
     <item id="8033"
@@ -9110,7 +9121,8 @@ an additional item property.
         type="equip-ring"
         weight="13"
         attack=""
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>equipment/wings/daemonwings.xml</sprite>
     </item>
     <item id="8034"
@@ -9121,7 +9133,8 @@ an additional item property.
         type="equip-ring"
         weight="13"
         attack=""
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>equipment/wings/dragonflywings.xml</sprite>
     </item>
     <item id="8035"
@@ -9132,7 +9145,8 @@ an additional item property.
         type="equip-ring"
         weight="13"
         attack=""
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>equipment/wings/butterflywings.xml</sprite>
     </item>
     <item id="8036"
@@ -9143,7 +9157,8 @@ an additional item property.
         str="50"
         type="equip-ring"
         weight="1"
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>pets/pet-dog.xml</sprite>
     </item>
     <item id="8037"
@@ -9154,7 +9169,8 @@ an additional item property.
         luck="30"
         type="equip-ring"
         weight="1"
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>pets/green-fairy.xml</sprite>
     </item>
     <item id="8038"
@@ -9165,7 +9181,8 @@ an additional item property.
         luck="30"
         type="equip-ring"
         weight="1"
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>pets/pet-fairy-red.xml</sprite>
     </item>
     <item id="8039"
@@ -9176,7 +9193,8 @@ an additional item property.
         luck="30"
         type="equip-ring"
         weight="1"
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>pets/pet-fairy-blue.xml</sprite>
     </item>
     <item id="8040"
@@ -9186,7 +9204,8 @@ an additional item property.
         effect="HP +100"
         agi="50"
         type="equip-ring"
-        weight="1">
+        weight="1"
+        sellProtected="true">
         <sprite>pets/pet-cat.xml</sprite>
     </item>
     <item id="8041"
@@ -9196,7 +9215,8 @@ an additional item property.
         effect="HP +100"
         dex="50"
         type="equip-ring"
-        weight="1">
+        weight="1"
+        sellProtected="true">
         <sprite>pets/pet-rat.xml</sprite>
     </item>
     <item id="8042"
@@ -9205,7 +9225,8 @@ an additional item property.
         description="Only for Admins."
         type="equip-head"
         defense="5"
-        weight="20">
+        weight="20"
+        sellProtected="true">
         <sprite>equipment/head/head-admincap.xml|#BF0E08</sprite>
     </item>
     <item id="8043"
@@ -9226,6 +9247,7 @@ an additional item property.
         weight="13"
         defense="10"
         max-per-slot="1">
+        sellProtected="true">
         <sprite gender="male">equipment/chest/chest-assassinrobe-male.xml</sprite>
         <sprite gender="female">equipment/chest/chest-assassinrobe-female.xml</sprite>
     </item>
@@ -9235,7 +9257,8 @@ an additional item property.
         description="A cap for beta testers."
         type="equip-head"
         defense="5"
-        weight="20">
+        weight="20"
+        sellProtected="true">
         <sprite>equipment/head/btcap.xml|#d94800</sprite>
     </item>
     <item id="8046"
@@ -9246,7 +9269,8 @@ an additional item property.
         agi="50"
         int="25"
         type="equip-ring"
-        weight="1">
+        weight="1"
+        sellProtected="true">
         <sprite>pets/pet-black-cat.xml</sprite>
     </item>
     <item id="8047"
@@ -9280,7 +9304,8 @@ an additional item property.
         attack-action="attack"
         attack-range="5"
         weight="100"
-        missile-particle="graphics/particles/fire-burst.xml">
+        missile-particle="graphics/particles/fire-burst.xml"
+        sellProtected="true">
         <sprite gender="male">equipment/hands/generic-male.xml|#4e2e18,c8752f</sprite>
         <sprite gender="female">equipment/hands/generic-female.xml|#4e2e18,c8752f</sprite>
         <!-- <sound event="strike">weapons/bows/bow_shoot_1.ogg</sound> -->
@@ -9293,7 +9318,8 @@ an additional item property.
         type="equip-torso"
         defense="30"
         dex="1"
-        weight="260">
+        weight="260"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/black-mamba-armor.xml</sprite>
     <sprite gender="female">equipment/chest/black-mamba-armor-female.xml</sprite>
     </item>
@@ -9304,7 +9330,8 @@ an additional item property.
         defense="4"
         agi="1"
         type="equip-feet"
-        weight="80">
+        weight="80"
+        sellProtected="true">
         <sprite>equipment/feet/black-mamba-boots.xml</sprite>
     </item>
     <item id="8051"
@@ -9314,7 +9341,8 @@ an additional item property.
         type="equip-arms"
         defense="3"
         dex="1"
-        weight="20">
+        weight="20"
+        sellProtected="true">
         <sprite>equipment/hands/black-mamba-gloves.xml</sprite>
     </item>
     <item id="8052"
@@ -9326,7 +9354,8 @@ an additional item property.
         dex="1"
         agi="1"
         type="equip-head"
-        weight="60">
+        weight="60"
+        sellProtected="true">
         <sprite>equipment/head/black-mamba-helm.xml</sprite>
     </item>
     <item id="8053"
@@ -9337,7 +9366,8 @@ an additional item property.
         type="equip-legs"
         defense="8"
         agi="1"
-        weight="60">
+        weight="60"
+        sellProtected="true">
         <sprite gender="male">equipment/legs/black-mamba-pants-male.xml</sprite>
         <sprite gender="female">equipment/legs/black-mamba-pants-female.xml</sprite>
     </item>
@@ -9348,7 +9378,8 @@ an additional item property.
         type="equip-head"
         defense="5"
         weight="20"
-        max-per-slot="1">
+        max-per-slot="1"
+        sellProtected="true">
         <sprite>equipment/head/sp_tophat.xml</sprite>
     </item>
     <item id="8055"
@@ -9358,7 +9389,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#181848,5050e5</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#181848,5050e5</sprite>
     </item>
@@ -9369,7 +9401,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#907020,f5f565</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#808020,f0f055</sprite>
     </item>
@@ -9380,7 +9413,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#115511,22aa22,99dd99</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#225522,55ee55</sprite>
     </item>
@@ -9391,7 +9425,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#104010,208020,30c030</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#104010,208020,30c030</sprite>
     </item>
@@ -9402,7 +9437,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#80280f,b04810,ef681f,ffb830</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#a06010,ff9030</sprite>
     </item>
@@ -9413,7 +9449,8 @@ an additional item property.
         effect="M. Attack -170"
         type="equip-torso"
         defense="40"
-        weight="2600">
+        weight="2600"
+        sellProtected="true">
         <sprite gender="male">equipment/chest/saviorarmor-white-male.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
         <sprite gender="female">equipment/chest/saviorarmor-white-female.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
     </item>
@@ -9424,7 +9461,8 @@ an additional item property.
         effect="M. Attack -200"
         type="equip-shield"
         defense="25"
-        weight="2000">
+        weight="2000"
+        sellProtected="true">
     </item>
     <item id="8062"
         image="equipment/charms/mecha-medallion.png"
@@ -9433,7 +9471,8 @@ an additional item property.
         type="equip-charm"
         vit="50"
         agi="50"
-        weight="50">
+        weight="50"
+        sellProtected="true">
     </item>
     <item id="8063"
         image="equipment/charms/theta-book.png"
@@ -9442,7 +9481,8 @@ an additional item property.
         effect="Accuracy +10"
         type="equip-charm"
         int="10"
-        weight="100">
+        weight="100"
+        sellProtected="true">
     </item>
     <item id="8064"
         image="equipment/head/level-10-cap.png"
@@ -9644,7 +9684,8 @@ an additional item property.
         weapon-type="knife"
         attack-action="attack_2hand"
         attack-range="1"
-        weight="500">
+        weight="500"
+        sellProtected="true">
         <sprite>weapon-singleblade-axe.xml</sprite>
     </item>
     <item id="8078"
