@@ -583,4 +583,12 @@
   <monster id="121" name="Smoke Dragon" targetCursor="big">
     <sprite>monsters/smoke-dragon.xml</sprite>
   </monster>
+  <monster id="122" name="Golden Scorpion">
+    <sprite>monsters/scorpion.xml|#2c1d00,574c0b,e7df93,af9917</sprite>
+    <sound event="hit">monsters/scorpion/scorpion-hit1.ogg</sound>
+    <sound event="hit">monsters/scorpion/scorpion-hit2.ogg</sound>
+    <sound event="hit">monsters/scorpion/scorpion-hit3.ogg</sound>
+    <sound event="hit">monsters/scorpion/scorpion-hit4.ogg</sound>
+    <sound event="miss">monsters/scorpion/scorpion-miss1.ogg</sound>
+  </monster>
 </monsters>
