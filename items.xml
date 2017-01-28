@@ -9665,4 +9665,37 @@ an additional item property.
         description="A bottle of liquid useful for setting dye in fur."
         type="generic"
         weight="10"/>
+    <item id="8081"
+        image="equipment/head/head-funkypurple.png"
+        name="Purple Funky Hat"
+        description="A conversation starter."
+        effect="M. Attack +2"
+        type="equip-head"
+        defense="5"
+        weight="20">
+        <sprite>equipment/head/head-funkypurple.xml</sprite>
+        <replace sprite="hair">
+            <item from="-5"/>
+        </replace>
+        <replace direction="left" sprite="hair">
+            <item from="-13"/>
+            <item from="-14" to="-16"/>
+            <item from="-15" to="-8"/>
+        </replace>
+        <replace direction="right" sprite="hair">
+            <item from="-13"/>
+            <item from="-14" to="-16"/>
+            <item from="-15" to="-8"/>
+        </replace>
+        <replace direction="upall" sprite="hair">
+            <item from="-14" to="-13"/>
+            <item from="-15" to="-13"/>
+            <item from="-18" to="-6"/>
+        </replace>
+        <replace direction="downall" sprite="hair">
+            <item from="-14" to="-13"/>
+            <item from="-15" to="-13"/>
+            <item from="-9" to="-1"/>
+        </replace>
+    </item>
 </items>
