@@ -591,4 +591,8 @@
     <sound event="hit">monsters/scorpion/scorpion-hit4.ogg</sound>
     <sound event="miss">monsters/scorpion/scorpion-miss1.ogg</sound>
   </monster>
+  <monster id="123" name="Chocolate Slime">
+    <sprite>monsters/slime.xml|#8a5825</sprite>
+    <sound event="hit">monsters/slime/slime-hit1.ogg</sound>
+  </monster>
 </monsters>
