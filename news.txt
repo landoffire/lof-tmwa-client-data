@@ -1,27 +1,21 @@
 ##1 Welcome to TMW-LoF V2!
 ##1 [@@http://landoffire.org |http://landoffire.org@@]
 
+##0 Hurnscald is celebrating Valentine's day, but there is 
+##0 some chocolate on the loose!
+
+##3 — The LoF Dev Team
+
 ##0 Intrepid explorers have discovered a new region of the 
 ##0 world, a secret island. Thought to be far off the 
 ##0 coasts of Hurnscald and filled with deadly creatures 
 ##0 of legends past, the dangers and gifts of this isle 
 ##0 beckon only to the bravest of the children of Auredia.
 
-##3 — The LoF Dev Team
-
-##0 Rumors are spreading of a dark dragon, drawn by the 
-##0 scent of immense mounds of gold and the pelts of its 
-##0 distant kin. But none can say that the danger of 
-##0 meeting such a foe is not offset by the effect it 
-##0 may have on a companion pet....
-##0 Meanwhile, in Tulimshar, a young student named Silvia 
-##0 has been tasked with teaching adventurers any fragment 
-##0 of magic she can, while the law office has revised its 
-##0 party forms to allow as many as 32 adventurers in one 
-##0 group, and even the Illia sisters seem to recognize 
-##0 the immense potential of comparative novices. Yet the 
-##0 most dedicated may find themselves further and further 
-##0 ahead, reaching the before unheard-of levels 100-109.
+##9 15 February 2017
+##0 * Fixes for Secret Island maps
+##0 * Increase maximum carry weight % without hp regen loss
+##0 * New mob: Chocolate Slime
 
 ##9 28 January 2017
 ##0 * New map region: Secret Island
